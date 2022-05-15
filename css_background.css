@@ -1,0 +1,21 @@
+html {
+    /*background: linear-gradient(grey, black);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;*/
+    background-image: url("fox-howl-purple.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+    background: linear-gradient(violet, purple)
+}
+
+#my_text {
+    color: aliceblue;
+    background: linear-gradient(to right, purple, violet)
+}

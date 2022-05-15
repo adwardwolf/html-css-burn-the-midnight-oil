@@ -1,0 +1,24 @@
+h1 {
+    border-bottom-style: dotted;
+    border-top-style: dotted;
+    border-left-style: solid;
+    border-left-color: rgb(0, 255, 229);
+    border-left-width: 8px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+p {
+    padding: 8px;
+    border-style: solid;
+    border-style: dotted;
+    border-style: groove;
+    border-style: double;
+    border-style: inset;
+    border-width: 5px;
+    border-color: #00FF00;
+    border-radius: 8px;
+}
